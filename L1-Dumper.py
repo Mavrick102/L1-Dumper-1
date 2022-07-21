@@ -48,4 +48,4 @@ print('Dumped To Downloads...\n\n')
 
 time.sleep(1)
 
-print('DON'T BE STUPID - DON'T GET SCAMMED :)\n\n')
+print('DONT BE STUPID - DONT GET SCAMMED :)\n\n')
